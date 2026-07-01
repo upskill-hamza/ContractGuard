@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual Environments & Packages
+.venv/
+venv/
+env/
+__pypackages__/
+
+# Sensitive Files / Configuration / Secrets
+.env
+.env.*
+
+build/
+dist/
+
+
+.vscode/
+.idea/
+.DS_Store
